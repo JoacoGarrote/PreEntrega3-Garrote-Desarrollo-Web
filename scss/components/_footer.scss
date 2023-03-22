@@ -1,0 +1,17 @@
+.footerbg{
+    background-color: #e55934;
+    background-image: linear-gradient(to bottom, #e55934 70%, #6c6e6b 100%);
+    
+}
+
+@media (max-width: 576px){
+   .footerbg{
+    text-align: center;
+    .map-padre{
+        max-width: 100%;
+        .map{
+            max-width: 100%;
+             }
+        }
+    }
+}
