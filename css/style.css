@@ -141,23 +141,23 @@ a:hover {
   }
 }
 .bannerhome {
-  background: url(../.././img/heroprincipal.png) center/cover;
+  background: url(../img/heroprincipal.png) center/cover;
 }
 
 .bannerproductos {
-  background: url(../.././img/bannerproductos.jpg) center/cover;
+  background: url(../img/bannerproductos.jpg) center/cover;
 }
 
 .bannernosotros {
-  background: url(../.././img/bannernosotros.jpg) center/cover;
+  background: url(../img/bannernosotros.jpg) center/cover;
 }
 
 .bannerpartners {
-  background: url(../.././img/bannerpartners.jpg) center/cover;
+  background: url(../img/bannerpartners.jpg) center/cover;
 }
 
 .bannercontacto {
-  background: url(../.././img/bannercontacto.jpg) center/cover;
+  background: url(../img/bannercontacto.jpg) center/cover;
 }
 
 @media (min-width: 576px) {
