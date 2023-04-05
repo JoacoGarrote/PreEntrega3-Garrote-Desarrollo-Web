@@ -2,16 +2,18 @@
     .seccion_secundaria, .sectsec_nosotros{
         .homesec1-p{
            margin: auto;
+           padding: 20px;
             h2{
                 font-size: 1.5em;
-                color: black;
+                color: #c9694f;
                 text-align: center;
+                box-shadow: 0px 1px 10px rgba(0,0,0,1) ;
             }
             p{
                 font-size: 1em;
                 color: rgb(220, 224, 228);
-                margin: 40px;
-                line-height: 45px;
+                margin: 10px;
+                line-height: 2em;
                 text-align: center;
                 b{
                     color: #e55934;
@@ -45,6 +47,15 @@
                 border-radius: 30px;
                 box-shadow: 0px 1px 10px rgba(0,0,0,1);
             }
+        }
+    }
+    .b-link-home{
+        color: #e55934;
+        text-decoration: underline;
+        font-size: 1em;
+        &:hover{
+            color: white solid;
+            transition: 0.3s;
         }
     }
  }

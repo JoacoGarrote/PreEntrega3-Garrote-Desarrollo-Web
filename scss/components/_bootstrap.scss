@@ -28,5 +28,16 @@ a{
 
 a:hover{
     color: white;
-    transition: 0.2s;
+    transition: 0.4s;
+    text-decoration: underline;
+}
+
+.b-link-home{
+    color: #e55934;
+    font-size: 1em;
+    text-decoration: underline;
+    &:hover{
+        color: white solid;
+        transition: 0.3s;
+    }
 }
