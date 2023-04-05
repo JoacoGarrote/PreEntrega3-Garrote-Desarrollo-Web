@@ -128,7 +128,6 @@ a:hover {
 .b-link-home {
   color: #e55934;
   font-size: 1em;
-  text-decoration: underline;
 }
 .b-link-home:hover {
   color: white solid;
