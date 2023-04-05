@@ -34,6 +34,7 @@ a:hover{
 .b-link-home{
     color: #e55934;
     font-size: 1em;
+    text-decoration: underline;
     &:hover{
         color: white solid;
         transition: 0.3s;
