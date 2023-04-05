@@ -122,7 +122,6 @@ a {
 a:hover {
   color: white;
   transition: 0.4s;
-  text-decoration: underline;
 }
 
 .b-link-home {
